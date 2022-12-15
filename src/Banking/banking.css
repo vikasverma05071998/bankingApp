@@ -1,0 +1,40 @@
+body{
+    background-color: cadetblue;
+}
+.head{
+    position: relative;
+    text-align: start;
+    margin-top: 20px;
+    font-size: 90px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    text-transform:uppercase;
+}
+#name{
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 50px;
+    text-transform:uppercase;
+    margin-left: 50px;
+}
+.cent{ 
+   text-align: center; 
+}
+.dev{
+    text-align: center;
+}
+#inpu{
+    position: relative;
+    padding: 10px;
+    width: 200px;
+    border-radius: 15px;
+}
+.btn{
+    position: relative;
+    margin: 20px;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    color:darkgoldenrod;
+}
